@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @harchenk0s
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Kharchenko Aleksandr
+- 👀 I’m interested in game and desktop app develop
+- 🌱 I’m currently learning C# (Unity, Xamarin, WPF, ASP.NET) C++ (Qt)
+- 📫 How to reach me: harchenk0s@yandex.ru ; https://vk.com/id61531189 ; https://t.me/haross
 
-<!---
-harchenk0s/harchenk0s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
